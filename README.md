@@ -1,4 +1,4 @@
-# gametictactoe
+# tictactoegame
 TIC-TAC-TOE GAME
 
 OBJECTIVE:
