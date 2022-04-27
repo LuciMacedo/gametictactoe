@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-image: url('img/orange.jpg');
+    background-size: 100%;
+
+}
+
+.square {
+    text-align: center;
+    width: 50px;
+    background:#FDFDFC;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.player, .winner {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background: #eee ;
+    cursor: pointer;
+    border-radius: 20px;
+}
+footer {
+    text-align: center;
+    font-size: 9px;
+    padding-top: 10px;
+}
